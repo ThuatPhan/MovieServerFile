@@ -4,7 +4,7 @@ import path from "path";
 import fs from "fs";
 
 const app = express();
-const PORT = 3000;
+const PORT = 80;
 
 // Directories for videos and images
 const videoDir = "./uploads/videos";
